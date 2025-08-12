@@ -57,7 +57,7 @@ The dashboard is divided into three main sections:
 
 ## 📂 Project File
 You can download and explore the Power BI file from here:  
-[**Download HR_Analytics_Dashboard.pbix**](https://github.com//Kamatchi0812/HR_Analytics/raw/main/HR_Analytics.pbix)
+[**Download HR_Analytics_Dashboard.pbix**](https://github.com//Kamatchi0812/HR_Analytics/raw/main/HR_analytics.pbix)
 
 ---
 
