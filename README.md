@@ -5,7 +5,7 @@ This project demonstrates data visualization, storytelling, and HR data analysis
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The dashboard is divided into three main sections:
 
 1. **Employee Overview**
@@ -25,14 +25,14 @@ The dashboard is divided into three main sections:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 - **Power BI** – Dashboard creation & visualization
 - **Excel** – Data cleaning and preprocessing
 - **Dataset** – HR dataset with employee details, salaries, performance scores, and termination reasons
 
 ---
 
-## 📊 Important Charts Used
+## Important Charts Used
 - **Funnel Chart** – Hiring source analysis to find effective recruitment platforms
 - **Donut Chart** – Gender distribution & salary distribution by performance category
 - **Line Chart** – Department-wise salary trends
@@ -42,7 +42,7 @@ The dashboard is divided into three main sections:
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### 1️⃣ Employee Overview
 ![Employee Overview](https://github.com//Kamatchi0812/HR_Analytics/raw/main/Dashboard_pg1.png)
@@ -55,25 +55,25 @@ The dashboard is divided into three main sections:
 
 ---
 
-## 📂 Project File
+## Project File
 You can download and explore the Power BI file from here:  
 [**Download HR_Analytics_Dashboard.pbix**](https://github.com//Kamatchi0812/HR_Analytics/raw/main/HR_analytics.pbix)
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - **Hiring Sources**: Indeed and LinkedIn are the top recruitment platforms
 - **Salary Trends**: Executive Office has the highest average salaries
 - **Performance**: Majority of employees are rated as “Fully Meets”
 - **Termination**: "Another position" and "Unhappy" are the most common reasons for leaving
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 - Predictive analytics for employee attrition
 - Department-wise hiring cost analysis
 - Live HR database connection for real-time updates
 
 ---
 
-## 📬 Contact
+## Contact
 If you have any feedback or suggestions, feel free to reach out via GitHub Issues or connect with me on LinkedIn.
