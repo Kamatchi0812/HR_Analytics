@@ -66,14 +66,6 @@ You can download and explore the Power BI file from here:
 - **Salary Trends**: Executive Office has the highest average salaries
 - **Performance**: Majority of employees are rated as “Fully Meets”
 - **Termination**: "Another position" and "Unhappy" are the most common reasons for leaving
-
----
-
-## 🚀 How to Use
-1. Click the `.pbix` link above to download the file
-2. Open it in **Power BI Desktop**
-3. Use filters and slicers to explore HR metrics
-
 ---
 
 ## 💡 Future Improvements
