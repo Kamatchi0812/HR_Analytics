@@ -1,4 +1,4 @@
-# 📊 Comprehensive HR Analytics Dashboard
+# 📊  HR Analytics Dashboard
 
 An **interactive HR analytics dashboard** built using **Power BI**, designed to give deep insights into employee performance, hiring sources, salary trends, and termination analysis.  
 This project demonstrates data visualization, storytelling, and HR data analysis skills.
