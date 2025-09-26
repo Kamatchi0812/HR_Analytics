@@ -73,7 +73,3 @@ You can download and explore the Power BI file from here:
 - Department-wise hiring cost analysis
 - Live HR database connection for real-time updates
 
----
-
-## Contact
-If you have any feedback or suggestions, feel free to reach out via GitHub Issues or connect with me on LinkedIn.
